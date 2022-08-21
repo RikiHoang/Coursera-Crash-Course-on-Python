@@ -5,8 +5,8 @@ Coursera: Crash Course on Python
 
 - **Week 1: Introduction to Programing**
    - [x] Practice quiz introduction to programming  
-   - [x] Introduction to Python
-   - [x] Hello World 
+   - [x] Practice Quiz: Introduction to Python
+   - [x] Practice Quiz: Hello World 
    - [x] Module 1 Graded Assessment
  - **Week 2: Basic Python Syntax**    
     - [] Practice Quiz: Expressions and Variables
