@@ -9,10 +9,10 @@ Coursera: Crash Course on Python
    - [x] Practice Quiz: Hello World 
    - [x] Module 1 Graded Assessment
  - **Week 2: Basic Python Syntax**    
-    - [] Practice Quiz: Expressions and Variables
-    - [] Practice Quiz: Functions
-    - [] Practice Quiz: Conditionals
-    - [] Module 2 Graded Assessment
+    - [x] Practice Quiz: Expressions and Variables
+    - [x] Practice Quiz: Functions
+    - [x] Practice Quiz: Conditionals
+    - [x] Module 2 Graded Assessment
 
  - **Week 3: Loops**
     - [] Practice Quiz: While Loops
