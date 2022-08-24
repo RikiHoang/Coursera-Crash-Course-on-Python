@@ -21,10 +21,10 @@ Coursera: Crash Course on Python
     - [x] Module 3 Graded Assessment
     
  - **Week 4: Strings, Lists and Dictionaries**
-    - [] Practice Quiz: Strings
-    - [] Practice Quiz: Lists
-    - [] Practice Quiz: Dictionaries
-    - [] Module 4 Graded Assessment
+    - [x] Practice Quiz: Strings
+    - [x] Practice Quiz: Lists
+    - [x] Practice Quiz: Dictionaries
+    - [x] Module 4 Graded Assessment
 
  - **Week 5: Object Oriented Programming (Optional)**
     - [] Basics of Object Oriented Programming
