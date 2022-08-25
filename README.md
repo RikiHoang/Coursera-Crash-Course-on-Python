@@ -27,10 +27,10 @@ Coursera: Crash Course on Python
     - [x] Module 4 Graded Assessment
 
  - **Week 5: Object Oriented Programming (Optional)**
-    - [] Basics of Object Oriented Programming
-    - [] Methods and Classes (Optional)
-    - [] Code Reuse (Optional)
-    - [] Practice Notebook: Object Oriented Programming (Optional)
+    - [x] Basics of Object Oriented Programming
+    - [x] Methods and Classes (Optional)
+    - [x] Code Reuse (Optional)
+    - [x] Practice Notebook: Object Oriented Programming (Optional)
 
  - **Week 6: Final Project**
     - [] Practice Notebook - Putting It All Together
