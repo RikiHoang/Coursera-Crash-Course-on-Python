@@ -33,5 +33,5 @@ Coursera: Crash Course on Python
     - [x] Practice Notebook: Object Oriented Programming (Optional)
 
  - **Week 6: Final Project**
-    - [] Practice Notebook - Putting It All Together
-    - [] Final Project: WordCloud
+    - [x] Practice Notebook - Putting It All Together
+    - [x] Final Project: WordCloud
