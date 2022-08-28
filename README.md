@@ -34,4 +34,4 @@ Coursera: Crash Course on Python
 
  - **Week 6: Final Project**
     - [x] Practice Notebook - Putting It All Together
-    - [x] Final Project: WordCloud
+    - [x] Final Project - WordCloud
